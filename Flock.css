@@ -1,0 +1,156 @@
+#div1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #0b1a1f;
+    height: 900px;
+    width: 1500px;
+}
+#logo{
+    position: absolute;
+    top: 2px;
+    left: 3px;
+    height: 50px;
+    width: 105px;
+}
+#whyflock{
+    background-color: #0b1a1f;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 580px;
+    border: 0px solid #0b1a1f;
+    font-family: dm-sans-bold,sans-serif;
+}
+#features{
+    background-color: #0b1a1f;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 710px;
+    border: 0px;
+}
+#entreprise{
+    background-color: #0b1a1f;
+    color: white;
+    border: 0px;
+    position: absolute;
+    top: 20px;
+    left: 820px;
+}
+#pricing{
+    background-color: #0b1a1f;
+    color: white;
+    border: 0px;
+    position: absolute;
+    top: 20px;
+    left: 950px;
+}
+#learnmore{
+    background-color: #0b1a1f;
+    color: white;
+    border: 0px;
+    position: absolute;
+    top: 20px;
+    left: 1045px;
+}
+#signin1{
+    background-color: #0b1a1f;
+    color: white;
+    border: 1px solid white;
+    position: absolute;
+    top: 15px;
+    left: 1170px;
+    padding: 6px 12px 6px 12px;
+    border-radius: 12%;
+}
+#p1{
+    color: white;
+    position: absolute;
+    top: 80px;
+    left: 360px;
+    font-size: 70px;
+    font-weight: bolder;
+}
+#para{
+    color: white;
+    position: absolute;
+    top: 315px;
+    left: 390px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+#divemeail{
+    background-color: #0b1a1f;
+    position: absolute;
+    top: 330px;
+    left: 360px;
+}
+/* #emailbox{
+    background-color: white;
+    color: grey;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 410px;
+    left: 380px;
+    padding: 12px; 
+    border-radius: 10%;
+    border: 2px solid black;
+    font-size: 20px;
+} */
+#getflocking{
+    background-color: #0abe51;
+    color: white;
+    height: 50px;
+    width: 120px;
+    position: absolute;
+    top: 410px;
+    left: 700px;
+    border: 0px;
+    border-radius: 10%;
+}
+footer{
+    color: white;
+    position: absolute;
+    top: 500px;
+    left: 530px;
+}
+#signin2{
+    color: #0abe51;
+    border: 0px;
+    background-color: #0b1a1f;
+}
+#men{
+    height: 300px;
+    width: 360px;
+    float: left;
+    position: absolute;
+    top: 280px;
+}
+#women{
+    height: 300px;
+    width: 360px;
+    /* float: right; */
+    position: absolute;
+    top: 280px;
+    left: 900px;
+}
+label { 
+    font: 18px; 
+}
+input { 
+    margin: 7px; 
+    padding: 20px;
+    position: absolute;
+    top: 407px;
+    left: 370px;
+    border-radius: 10%;
+    border: 0px;
+} 
+#disclaimer{
+    color: white;
+    position: absolute;
+    top: 100px;
+    width: 1300px;
+}
